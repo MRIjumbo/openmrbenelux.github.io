@@ -35,6 +35,11 @@ img {
   display:block;
   width:1350px
 }
+
+.background-white{
+  background: #ffffff;
+}
+
 </style>
 </head>
 
@@ -100,34 +105,34 @@ img {
 </tr>
 
 <tr valign="top">
-<td style="background: #ffffff;" bgcolor="#ffffff" width="14%">
+<td class="background-white" width="14%">
 <p><strong>9:00 &ndash; 9:20</strong></p>
 </td>
-<td style="background: #ffffff;" bgcolor="#ffffff" width="66%">
+<td class="background-white"  width="66%">
 <p><strong>Introduction and Welcome</strong></p>
 <a href="../2020/page-team/"><p>Stephan Heunis & Organizing Committee</p></a> 
 </td>
-<td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
+<td class="background-white"  width="10%">
 
 <p>&nbsp;</p>
 </td>
-<td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
+<td class="background-white"  width="10%">
 <p>&nbsp;</p>
 </td>
 </tr>
 
 <tr valign="top">
-<td style="background: #ffffff;" bgcolor="#ffffff" width="14%">
+<td class="background-white"  width="14%">
 <p><strong>9:20 &ndash; 9:45</strong></p>
 </td>
-<td style="background: #ffffff;" bgcolor="#ffffff" width="66%">
+<td class="background-white"  width="66%">
 <p><strong>Hackathon Project Pitches</strong></p>
 <a><p></p></a> 
 </td>
-<td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
+<td class="background-white"  width="10%">
 <p>&nbsp;</p>
 </td>
-<td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
+<td class="background-white"  width="10%">
 <p>&nbsp;</p>
 </td>
 </tr>
@@ -150,16 +155,16 @@ img {
 </tr>
 
 <tr valign="top">
-<td style="background: #ffffff;" bgcolor="#ffffff" width="14%">
+<td class="background-white"  width="14%">
 <p><strong>10:15 &ndash; 10:30</strong></p>
 </td>
-<td style="background: #ffffff;" bgcolor="#ffffff" width="66%">
+<td class="background-white"  width="66%">
 <p><strong>Open Discussion</strong></p>
 </td>
-<td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
+<td class="background-white"  width="10%">
 <p>&nbsp;</p>
 </td>
-<td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
+<td class="background-white"  width="10%">
 <p>&nbsp;</p>
 </td>
 </tr>
@@ -197,16 +202,16 @@ img {
 </tr>
 
 <tr valign="top">
-<td style="background: #ffffff;" bgcolor="#ffffff" width="14%">
+<td class="background-white"  width="14%">
 <p><strong>11:30 &ndash; 11:45</strong></p>
 </td>
-<td style="background: #ffffff;" bgcolor="#ffffff" width="66%">
+<td class="background-white"  width="66%">
 <p><strong>Open Discussion</strong></p>
 </td>
-<td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
+<td class="background-white"  width="10%">
 <p>&nbsp;</p>
 </td>
-<td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
+<td class="background-white"  width="10%">
 <p>&nbsp;</p>
 </td>
 </tr>
@@ -229,16 +234,16 @@ img {
 </tr>
 
 <tr valign="top">
-<td style="background: #ffffff;" bgcolor="#ffffff" width="14%">
+<td class="background-white"  width="14%">
 <p><strong>12:15 &ndash; 12:30</strong></p>
 </td>
-<td style="background: #ffffff;" bgcolor="#ffffff" width="66%">
+<td class="background-white"  width="66%">
 <p><strong>Open Discussion</strong></p>
 </td>
-<td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
+<td class="background-white"  width="10%">
 <p>&nbsp;</p>
 </td>
-<td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
+<td class="background-white"  width="10%">
 <p>&nbsp;</p>
 </td>
 </tr>
@@ -276,16 +281,16 @@ img {
 </tr>
 
 <tr valign="top">
-<td style="background: #ffffff;" bgcolor="#ffffff" width="14%">
+<td class="background-white"  width="14%">
 <p><strong>14:00 &ndash; 14:15</strong></p>
 </td>
-<td style="background: #ffffff;" bgcolor="#ffffff" width="66%">
+<td class="background-white"  width="66%">
 <p><strong>Open Discussion</strong></p>
 </td>
-<td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
+<td class="background-white"  width="10%">
 <p>&nbsp;</p>
 </td>
-<td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
+<td class="background-white"  width="10%">
 <p>&nbsp;</p>
 </td>
 </tr>
@@ -308,16 +313,16 @@ img {
 </tr>
 
 <tr valign="top">
-<td style="background: #ffffff;" bgcolor="#ffffff" width="14%">
+<td class="background-white"  width="14%">
 <p><strong>14:45 &ndash; 15:00</strong></p>
 </td>
-<td style="background: #ffffff;" bgcolor="#ffffff" width="66%">
+<td class="background-white"  width="66%">
 <p><strong>Open Discussion</strong></p>
 </td>
-<td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
+<td class="background-white"  width="10%">
 <p>&nbsp;</p>
 </td>
-<td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
+<td class="background-white"  width="10%">
 <p>&nbsp;</p>
 </td>
 </tr>
@@ -355,16 +360,16 @@ img {
 </tr>
 
 <tr valign="top">
-<td style="background: #ffffff;" bgcolor="#ffffff" width="14%">
+<td class="background-white"  width="14%">
 <p><strong>16:00 &ndash; 16:15</strong></p>
 </td>
-<td style="background: #ffffff;" bgcolor="#ffffff" width="66%">
+<td class="background-white"  width="66%">
 <p><strong>Open Discussion</strong></p>
 </td>
-<td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
+<td class="background-white"  width="10%">
 <p>&nbsp;</p>
 </td>
-<td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
+<td class="background-white"  width="10%">
 <p>&nbsp;</p>
 </td>
 </tr>
@@ -387,16 +392,16 @@ img {
 </tr>
 
 <tr valign="top">
-<td style="background: #ffffff;" bgcolor="#ffffff" width="14%">
+<td class="background-white"  width="14%">
 <p><strong>16:45 &ndash; 17:00</strong></p>
 </td>
-<td style="background: #ffffff;" bgcolor="#ffffff" width="66%">
+<td class="background-white"  width="66%">
 <p><strong>Open Discussion</strong></p>
 </td>
-<td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
+<td class="background-white"  width="10%">
 <p>&nbsp;</p>
 </td>
-<td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
+<td class="background-white"  width="10%">
 <p>&nbsp;</p>
 </td>
 </tr>
